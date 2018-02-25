@@ -1,0 +1,49 @@
+# Notes on [Leiningen][0]
+
+## Basic Docs
+
+* [Tutorial](https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md)
+* [FAQ](https://github.com/technomancy/leiningen/blob/master/doc/FAQ.md)
+* [Deploy](https://github.com/technomancy/leiningen/blob/master/doc/DEPLOY.md)
+
+## External Resources
+
+* [Managing Native Dependencies (`.so`, `.dll`, etc.) with Leiningen](https://nakkaya.com/2010/04/05/managing-native-dependencies-with-leiningen/)
+    * [Native Dependencies for Sigar](https://github.com/zcaudate-me/sigar-native-deps)
+    * [stackoverflow: Howto package my project resource-paths to use as project dependency?](https://stackoverflow.com/questions/23020288/howto-package-my-project-resource-paths-to-use-as-project-dependency)
+
+* [stackoverflow: Resources in Clojure applications](https://stackoverflow.com/questions/8009829/resources-in-clojure-applications?rq=1)
+
+## Unique Development Libraries
+
+* [Loading Clojure Libraries Directly From Github](https://lambdaisland.com/blog/17-05-2017-loading-clojure-libraries-directly-from-github)
+
+## Maven/ `.m2` / local-repo path adjustments
+
+* [clojure lein 2: change local-repo path](https://coderwall.com/p/bvm4ag/clojure-lein-2-change-local-repo-path)
+* [stackoverflow: Determining Clojure Jar Path](https://stackoverflow.com/questions/9707413/determining-clojure-jar-path) -- _provides a quick understanding of maven directory structure_
+* [Overriding local repository location for an individual project](https://stackoverflow.com/questions/11460283/how-can-i-make-leiningen-2-respect-the-local-repository-path-in-mavens-settings)
+# [Maven - alternative `.m2` directory](https://stackoverflow.com/questions/16591080/maven-alternative-m2-directory) -- _provides generic maven adjustments_
+* [Leiningen: How to customize the location of the `.m2` folder](https://stackoverflow.com/questions/12579335/leiningen-how-to-customize-the-location-of-the-m2-folder)
+* [Leiningen: working with local repository](http://www.spacjer.com/blog/2015/03/23/leiningen-working-with-local-repository/)
+
+## Fundemental Understanding
+
+* [What is Leiningen doing underneath the hood with the JVM calls](https://stackoverflow.com/questions/11973694/how-to-add-directory-to-clojures-classpath)
+
+## Project Structure
+
+* [How To Organize A Clojure Project And Its Dependencies](https://cb.codes/organizing-clojure-projects-and-libraries/)
+
+## Customizations
+
+* [Clojure Templates Are Easy With Leiningen](http://jr0cket.co.uk/2015/03/clojure-templates-are-easy-with-leiningen.html)
+
+## Miscellaneous
+
+* [Deps and CLI Guide](https://clojure.org/guides/deps_and_cli)
+* [Introduction to OpenCV Development with Clojure](http://www.swarthmore.edu/NatSci/mzucker1/opencv-2.4.10-docs/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html) -- _is an interesting guide to using native libraries with leiningen and clojure_
+
+
+
+[0]: https://leiningen.org/
