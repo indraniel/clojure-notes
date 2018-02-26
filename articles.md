@@ -32,3 +32,4 @@ written with Clojure and ClojureScript._
 * [clojure reference - special forms](https://clojure.org/references/special_forms)
 * [Yak herding for misers - wrangling hundreds of AWS Instances with Clojure](http://blog.podsnap.com/yakherd.html)
 * [Pinholes - Idiomatic Clojure Lenses](http://blog.podsnap.com/pinhole.html)
+* [Example of querying AWS infrastructure with Amazonica](https://gist.github.com/alandipert/d2cb38ee869448182c4b)
