@@ -30,3 +30,5 @@
 written with Clojure and ClojureScript._
 * [ClojureBridge community docs](https://clojurebridge.github.io/community-docs)
 * [clojure reference - special forms](https://clojure.org/references/special_forms)
+* [Yak herding for misers - wrangling hundreds of AWS Instances with Clojure](http://blog.podsnap.com/yakherd.html)
+* [Pinholes - Idiomatic Clojure Lenses](http://blog.podsnap.com/pinhole.html)
