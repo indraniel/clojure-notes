@@ -30,6 +30,7 @@
 ## Fundemental Understanding
 
 * [What is Leiningen doing underneath the hood with the JVM calls](https://stackoverflow.com/questions/11973694/how-to-add-directory-to-clojures-classpath)
+* [How Clojure Babies Are Made: Understanding `lein run`](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-lein-run/)
 
 ## Project Structure
 
