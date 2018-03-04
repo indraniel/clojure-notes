@@ -27,7 +27,7 @@
 * [Leiningen: How to customize the location of the `.m2` folder](https://stackoverflow.com/questions/12579335/leiningen-how-to-customize-the-location-of-the-m2-folder)
 * [Leiningen: working with local repository](http://www.spacjer.com/blog/2015/03/23/leiningen-working-with-local-repository/)
 
-## Fundemental Understanding
+## Fundamental Understanding
 
 * [What is Leiningen doing underneath the hood with the JVM calls](https://stackoverflow.com/questions/11973694/how-to-add-directory-to-clojures-classpath)
 * [How Clojure Babies Are Made: Understanding `lein run`](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-lein-run/)
@@ -42,7 +42,13 @@
 
 ## Miscellaneous
 
+### Leiningen Alternatives
+
 * [Deps and CLI Guide](https://clojure.org/guides/deps_and_cli)
+* [Clojure Projects From Scratch](https://oli.me.uk/2018-02-26-clojure-projects-from-scratch/) -- _how to structure a project with the new Clojure CLI + [deps.edn](https://clojure.org/guides/deps_and_cli)_
+
+### Other types of projects
+
 * [Introduction to OpenCV Development with Clojure](http://www.swarthmore.edu/NatSci/mzucker1/opencv-2.4.10-docs/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html) -- _is an interesting guide to using native libraries with leiningen and clojure_
 
 
