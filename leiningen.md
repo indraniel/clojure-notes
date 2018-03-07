@@ -23,7 +23,7 @@
 * [clojure lein 2: change local-repo path](https://coderwall.com/p/bvm4ag/clojure-lein-2-change-local-repo-path)
 * [stackoverflow: Determining Clojure Jar Path](https://stackoverflow.com/questions/9707413/determining-clojure-jar-path) -- _provides a quick understanding of maven directory structure_
 * [Overriding local repository location for an individual project](https://stackoverflow.com/questions/11460283/how-can-i-make-leiningen-2-respect-the-local-repository-path-in-mavens-settings)
-# [Maven - alternative `.m2` directory](https://stackoverflow.com/questions/16591080/maven-alternative-m2-directory) -- _provides generic maven adjustments_
+* [Maven - alternative `.m2` directory](https://stackoverflow.com/questions/16591080/maven-alternative-m2-directory) -- _provides generic maven adjustments_
 * [Leiningen: How to customize the location of the `.m2` folder](https://stackoverflow.com/questions/12579335/leiningen-how-to-customize-the-location-of-the-m2-folder)
 * [Leiningen: working with local repository](http://www.spacjer.com/blog/2015/03/23/leiningen-working-with-local-repository/)
 
