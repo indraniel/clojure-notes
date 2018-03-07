@@ -33,6 +33,13 @@
 * [How Clojure Babies Are Made: Understanding `lein run`](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-lein-run/)
 * [How Clojure Babies are Made: Leiningen's Trampoline](http://www.flyingmachinestudios.com/programming/lein-trampoline/)
 
+### Appreciating the differences between `lein run`, `lein trampoline`, and `lein uberjar`
+
+* **`lein run`** : executes the `-main` function of the targeted or default namespace. Lein runs through out the full execution of that main methods so if your main function creates a web servers, then the leiningen process also stays up the whole time.
+* **`lein trampoline`** : executes the `-main` function as a separate process, so that the main leiningen process can exit and therefore you only have one process running
+* **`lein uberjar`** : creates a standalone jar file, so that any other user does not need to have lein installed to run your code. (or any of the source files). To run the jar, you execute `java -jar myjarname.jar` which contains all the source and all the dependencies.
+
+
 ## Project Structure
 
 * [How To Organize A Clojure Project And Its Dependencies](https://cb.codes/organizing-clojure-projects-and-libraries/)
