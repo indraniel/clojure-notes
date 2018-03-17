@@ -50,6 +50,10 @@
 
 ## Miscellaneous
 
+### Other Tutorials (maybe outdated)
+
+* [Using Leiningen to build Clojure code](http://alexott.net/en/clojure/ClojureLein.html)
+
 ### Leiningen Alternatives
 
 * [Deps and CLI Guide](https://clojure.org/guides/deps_and_cli)
