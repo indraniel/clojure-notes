@@ -18,3 +18,12 @@
 
 * [Difference between doseq and for in Clojure](https://stackoverflow.com/questions/4725417/difference-between-doseq-and-for-in-clojure)
 * [What is the difference among the functions `doall`, `dorun`, `doseq`, and `for`?](https://stackoverflow.com/questions/25327369/what-is-the-difference-among-the-functions-doall-dorun-doseq-and-for)
+
+
+## Vim config
+
+* [Clojure autocomplete dropdown](https://i.imgur.com/Tz6ttHW.gif) -- capturing of the last completion info
+    ```
+    autocmd BufEnter * if !exists('b:last_completion_sig') | let b:last_completion_sig = '' | endif
+    autocmd CompleteDone * let b:last_completion_sig = join(split(has_key(v:completed_item, 'info') ? v:completed_item.info : b:last_completion_sig, '\n')[0:1], ' ')
+    ```
