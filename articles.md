@@ -39,3 +39,14 @@ written with Clojure and ClojureScript._
 ## Atom
 
 [Slick Clojure Editor Setup with Atom](https://medium.com/@jacekschae/slick-clojure-editor-setup-with-atom-a3c1b528b722)
+
+## Vim
+
+* [Screencast: clojure + vim basics](https://hashrocket.com/blog/posts/screencast-clojure-and-vim-basics)
+* [Clojure Docs: "Clojure with Vim and fireplace.vim"](http://clojure-doc.org/articles/tutorials/vim_fireplace.html)
+* [Clojure and vim: an overview](https://juxt.pro/blog/posts/vim-1.html)
+* [YouTube Video: Clojure with Vim (fireplace)](https://www.youtube.com/watch?v=LiA56W3V3_w)
+
+## Emacs
+
+* [CIDER keybindings](https://cider.readthedocs.io/en/latest/interactive_programming/)
