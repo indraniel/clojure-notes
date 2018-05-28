@@ -46,6 +46,11 @@ written with Clojure and ClojureScript._
 * [Clojure Docs: "Clojure with Vim and fireplace.vim"](http://clojure-doc.org/articles/tutorials/vim_fireplace.html)
 * [Clojure and vim: an overview](https://juxt.pro/blog/posts/vim-1.html)
 * [YouTube Video: Clojure with Vim (fireplace)](https://www.youtube.com/watch?v=LiA56W3V3_w)
+* [tpope/vim-surround](https://github.com/tpope/vim-surround)
+* [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people)
+* [my clojure toolchain: vim](https://blog.venanti.us/clojure-vim/)
+* [vim-sexp-cheatsheet](https://gist.github.com/indraniel/fc3b89058f6542b559d73dbc2590c5d4)
+* [sexp-cheatsheet](https://gist.github.com/indraniel/0fb3642943a2b183ccdbf84f63cf9f91)
 
 ## Emacs
 
