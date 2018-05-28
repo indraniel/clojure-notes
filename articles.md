@@ -56,3 +56,8 @@ written with Clojure and ClojureScript._
 ## Emacs
 
 * [CIDER keybindings](https://cider.readthedocs.io/en/latest/interactive_programming/)
+* [Getting Started with CIDER on Emacs Live](http://jr0cket.co.uk/2015/01/getting-started-with-cider-repl-for-clojure-on-emacs-live.html)
+* [Paredit Cheatsheet](https://github.com/georgek/paredit-cheatsheet)
+* [Basic CIDER from "Clojure for the Brave and True"](https://www.braveclojure.com/basic-emacs/)
+* [Clojure CIDER Tutorial](http://xahlee.info/clojure/clojure_emacs_cider.html)
+* [google search "emacs cider tutorial"](https://www.google.com/search?&q=emacs+cider+tutorial&oq=emacs+cider)
