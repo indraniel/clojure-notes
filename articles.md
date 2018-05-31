@@ -40,6 +40,7 @@ written with Clojure and ClojureScript._
 * [Notes on debugging clojure code](https://eli.thegreenplace.net/2017/notes-on-debugging-clojure-code/)
 * [vvvvalvalval/scope-capture](https://github.com/vvvvalvalval/scope-capture)
 * [gfredericks/debug-repl](https://github.com/gfredericks/debug-repl)
+* [dgrnbrg/spyscope](https://github.com/dgrnbrg/spyscope)
 
 # Development Tooling
 
