@@ -60,6 +60,7 @@ written with Clojure and ClojureScript._
 * [my clojure toolchain: vim](https://blog.venanti.us/clojure-vim/)
 * [vim-sexp-cheatsheet](https://gist.github.com/indraniel/fc3b89058f6542b559d73dbc2590c5d4)
 * [sexp-cheatsheet](https://gist.github.com/indraniel/0fb3642943a2b183ccdbf84f63cf9f91)
+* [kotarak/vimpire](https://github.com/kotarak/vimpire)
 
 ## Emacs
 
