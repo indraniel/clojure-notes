@@ -8,7 +8,7 @@
 
 * **`dorun`**
     
-    Use `dorun` when you just want the side effects of computing the lazy sequence, but you don’t care about the items in the sequence itself. But be careful when you see yourself using `(dorun (map ... ))`, you should probably use doseq instead. I use the "run" part of `dorun` to help me remember that it only runs over the seq for side effects, without keeping anything.
+    Use `dorun` when you just want the side effects of computing the lazy sequence, but you don’t care about the items in the sequence itself. But be careful when you see yourself using `(dorun (map ... ))`, you should probably use `doseq` instead. I use the "run" part of `dorun` to help me remember that it only runs over the seq for side effects, without keeping anything.
 
 * **`doseq`**
 
