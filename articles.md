@@ -3,11 +3,6 @@
 * [Functions Explained Through Patterns](http://blog.josephwilk.net/clojure/functions-explained-through-patterns.html)
 * [Building Clojure Services at Scale](http://blog.josephwilk.net/clojure/building-clojure-services-at-scale.html)
 
-## `core.async`
-
-* [On the Judicious Use of core.async](http://realworldclojure.com/on-the-judicious-use-of-core.async/)
-* [`core.async` in Use -- Timothy Baldridge](https://www.youtube.com/watch?v=096pIlA3GDo)
-
 # Interesting
 
 * [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) - A series of tutorials on ClojureScript
@@ -42,6 +37,17 @@ written with Clojure and ClojureScript._
 * [gfredericks/debug-repl](https://github.com/gfredericks/debug-repl)
 * [dgrnbrg/spyscope](https://github.com/dgrnbrg/spyscope)
 
+# Core Programming Language
+
+## `core.async`
+
+* [On the Judicious Use of core.async](http://realworldclojure.com/on-the-judicious-use-of-core.async/)
+* [`core.async` in Use -- Timothy Baldridge](https://www.youtube.com/watch?v=096pIlA3GDo)
+
+## Transducers
+
+* [Learning Clojure: transducers](https://blog.frankel.ch/learning-clojure/6/)
+
 # Development Tooling
 
 ## Atom
@@ -70,3 +76,30 @@ written with Clojure and ClojureScript._
 * [Basic CIDER from "Clojure for the Brave and True"](https://www.braveclojure.com/basic-emacs/)
 * [Clojure CIDER Tutorial](http://xahlee.info/clojure/clojure_emacs_cider.html)
 * [google search "emacs cider tutorial"](https://www.google.com/search?&q=emacs+cider+tutorial&oq=emacs+cider)
+
+# Application Development
+
+## Web Development
+
+### Web Services/REST APIs
+
+* [Liberator](https://clojure-liberator.github.io/liberator/)
+* [RJMetrics/sweet-liberty](https://github.com/RJMetrics/sweet-liberty) -- also see [RJMetrics/sweet-liberty-example](https://github.com/RJMetrics/sweet-liberty-example)
+* [JSON Web Services with Clojure](http://udayv.com/clojure/2014/08/19/json-web-services-with-clojure/)
+* [Building Web Services with Duct](https://www.booleanknot.com/blog/2017/05/29/building-web-services-with-duct.html)
+* [A REST API in Clojure](https://blog.interlinked.org/programming/clojure_rest.html)
+
+### Web Client
+
+* [dakrone/clj-http](https://github.com/dakrone/clj-http)
+* [Interacting with a REST API from Clojure](https://stackoverflow.com/questions/12887307/interacting-with-a-rest-api-from-clojure)
+
+
+## Data Processing
+
+* [Poor Man's Kafka Queue in Clojure](https://dataissexy.wordpress.com/2018/11/05/too-small-to-kafka-but-too-big-to-wait-really-simple-streaming-in-clojure-queues-pubsub-activemq-rabbitmq/)
+
+## Art
+
+* [Using Quil for Artwork](http://www.tylerlhobbs.com/writings/using-quil-for-artwork)
+
