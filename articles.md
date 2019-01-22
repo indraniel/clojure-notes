@@ -103,3 +103,11 @@ written with Clojure and ClojureScript._
 
 * [Using Quil for Artwork](http://www.tylerlhobbs.com/writings/using-quil-for-artwork)
 
+## Deep Learning
+
+* [Object Detection with Clojure MXNet](http://gigasquidsoftware.com/blog/2019/01/19/object-detection-with-clojure-mxnet/)
+
+## Data Science
+
+* [Clojure Data Science Course](https://clojure-data-science-course.github.io/)
+* [Renjin Example: Calling pure-JVM R from Clojure](http://viewer.gorilla-repl.org/view.html?source=github&user=clojure-data-science-course&repo=examples&path=src/examples/renjin.clj)
