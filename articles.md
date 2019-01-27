@@ -48,6 +48,20 @@ written with Clojure and ClojureScript._
 
 * [Learning Clojure: transducers](https://blog.frankel.ch/learning-clojure/6/)
 
+## Java Interop
+
+* [Java Interop](https://clojure.org/reference/java_interop) - _(has a number of performance improving ideas)_
+
+### OOP-related programming
+
+* [Subclassing in Clojure](https://puredanger.github.io/tech.puredanger.com/2011/08/12/subclassing-in-clojure/)
+* [Structured Clojure: Protocols and multimethods (oh my!)](https://adambard.com/blog/structured-clojure-protocols-and-multimethods/)
+* [Solving the Expression Problem with Clojure 1.2](https://www.ibm.com/developerworks/library/j-clojure-protocols/)
+* [Datatypes: deftype, defrecord, and reify](https://clojure.org/reference/datatypes)
+* [clojuredocs: `extend`](https://clojuredocs.org/clojure.core/extend)
+* [clojuredocs: `extend-type`](https://clojuredocs.org/clojure.core/extend-type)
+* [clojuredocs: `reify`](https://clojuredocs.org/clojure.core/reify)
+
 # Development Tooling
 
 ## Atom
