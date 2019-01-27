@@ -93,6 +93,10 @@ written with Clojure and ClojureScript._
 
 # Application Development
 
+## CLI Tools
+
+* [totakke/clj-sub-command](https://github.com/totakke/clj-sub-command)
+
 ## Web Development
 
 ### Web Services/REST APIs
