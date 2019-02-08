@@ -116,6 +116,7 @@ written with Clojure and ClojureScript._
 ## Data Processing
 
 * [Poor Man's Kafka Queue in Clojure](https://dataissexy.wordpress.com/2018/11/05/too-small-to-kafka-but-too-big-to-wait-really-simple-streaming-in-clojure-queues-pubsub-activemq-rabbitmq/)
+* [Erlang (and Go) in Clojure (and Java)](http://blog.paralleluniverse.co/2013/05/02/quasar-pulsar/)
 
 ## Art
 
