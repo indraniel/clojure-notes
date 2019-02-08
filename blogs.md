@@ -5,3 +5,4 @@
 * [CB Codes](https://cb.codes)
 * [Digital Digressions by Stuart Sierra](https://stuartsierra.com/writing)
 * [Real World Clojure](http://realworldclojure.com)
+* [Polymatheia](https://hypirion.com/musings)
