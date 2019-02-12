@@ -51,6 +51,7 @@ written with Clojure and ClojureScript._
 ## Java Interop
 
 * [Java Interop](https://clojure.org/reference/java_interop) - _(has a number of performance improving ideas)_
+* [Inspect Java Objects with Clojure](https://dawranliou.com/blog/2019/02/09/clojure-inspect.html)
 
 ### OOP-related programming
 
