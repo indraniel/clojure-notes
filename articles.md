@@ -126,6 +126,7 @@ written with Clojure and ClojureScript._
 ## Deep Learning
 
 * [Object Detection with Clojure MXNet](http://gigasquidsoftware.com/blog/2019/01/19/object-detection-with-clojure-mxnet/)
+* [Deep Learning in Clojure from Scratch](https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-0-Why-Bother)
 
 ## Data Science
 
